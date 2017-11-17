@@ -10,6 +10,9 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
+//menu & icon
+//https://stackoverflow.com/questions/32969172/how-to-display-menu-item-with-icon-and-text-in-appcompatactivity
+
 public class MainActivity extends ListActivity
 {
     private final static String TAG = ListActivity.class.getSimpleName();
